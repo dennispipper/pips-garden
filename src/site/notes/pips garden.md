@@ -3,3 +3,5 @@
 ---
 
 This is the homepage to my garden.
+
+[[second page\|second page]]
